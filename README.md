@@ -8,17 +8,8 @@
     <br />
     
 ---
-    
+
 <br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=junwon-0313" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junwon-0313&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br><br>
 
   <p align="center">
       <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54", alt="python badge" />
@@ -33,6 +24,16 @@
 <!--       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikitlearn badge">
       <img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=for-the-badge&logo=apache%20airflow&logoColor=white" alt="airflow badge"/> -->
   </p>
+
+<br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junwon-0313" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junwon-0313&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 </div>
 
 
