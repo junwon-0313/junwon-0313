@@ -1,3 +1,9 @@
+### 🏃‍♂️About Me
+- 안녕하세요! BoostCamp AI Tech 5기를 수료한 이준원입니다.
+- 콘텐츠, 패션, 맛집 등 일상생활에 녹아있는 즐거움을 찾는 일을 좋아합니다.
+- 소통을 중요하게 생각하며 자료를 공유하는 것을 좋아합니다. [level1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b) [level2,3](https://www.notion.so/junwon-0313/Style-Bible-f747bb3119bd4912bc0011fe3ec02855)
+- DATA를 잘 다루는 스페셜리스트가 되고 싶으며 FE, BE까지 다룰 수 있는 제너럴리스트가 되는 것이 최종 목표입니다.
+
 <div align="center">  
 
 ![header](https://capsule-render.vercel.app/api?&height=70&type=transparent&text=Hi!%20I'm%20Junwon&fontSize=50&fontColor=1999FF&fontAlign=50)
