@@ -3,6 +3,7 @@
 - 콘텐츠, 패션, 맛집 등 일상생활에 녹아있는 즐거움을 찾는 일을 좋아합니다.
 - 소통을 중요하게 생각하며 자료를 공유하는 것을 좋아합니다. [level1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b) [level2,3](https://www.notion.so/junwon-0313/Style-Bible-f747bb3119bd4912bc0011fe3ec02855)
 - DATA를 잘 다루는 스페셜리스트가 되고 싶으며 FE, BE까지 다룰 수 있는 제너럴리스트가 되는 것이 최종 목표입니다.
+<br>
 
 ### :computer: Tech Stack
 
@@ -17,13 +18,6 @@
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt='postgres badge' width=80px height=25px/>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt='docker badge' width=80px height=25px/>
 <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junwon-0313" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junwon-0313&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ### 🌱 I’m currently learning ...
 - Data
@@ -44,4 +38,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junwon-0313" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junwon-0313&layout=compact&langs_count=8&card_width=320" />
+</a>
 -->
