@@ -1,11 +1,15 @@
-### 🏃‍♂️About Me
-- 안녕하세요! BoostCamp AI Tech 5기를 수료한 이준원입니다.
-- 콘텐츠, 패션, 맛집 등 일상생활에 녹아있는 즐거움을 찾는 일을 좋아합니다.
-- 소통을 중요하게 생각하며 자료를 공유하는 것을 좋아합니다. [level1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b) [level2,3](https://www.notion.so/junwon-0313/Style-Bible-f747bb3119bd4912bc0011fe3ec02855)
+### 🏃‍♂️ About Me
+- 안녕하세요!
+- 데이터를 활용해 콘텐츠, 패션, 맛집 등 일상생활에 녹아있는 즐거움을 찾고 싶습니다.
 - DATA를 잘 다루는 스페셜리스트가 되고 싶으며 FE, BE까지 다룰 수 있는 제너럴리스트가 되는 것이 최종 목표입니다.
 <br>
 
-### :computer: Tech Stack
+### 📗 Education
+- Naver BoostCamp AI Tech (2023.03~2023.08)
+  - 추천 시스템(Recommender System) [level1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b), [level2,3](https://www.notion.so/junwon-0313/Style-Bible-f747bb3119bd4912bc0011fe3ec02855)
+<br>
+
+### 💻 Tech Stack
 
   <p align="left">
       <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54", alt="python badge" width=80px height=25px/>
@@ -20,25 +24,16 @@
 <br><br>
 
 ### 🌱 I’m currently learning ...
-- Data
-- ML / DL
-- Back End
+- Data: logging, SQL, NoSQL, Data ETL
+- ML / DL: 논문 리뷰 및 구현
+- Back End: FastAPI
+- Front End: React
 
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunwon-0313)](https://hits.seeyoufarm.com)  
 
 <!--
-**junwon-0313/junwon-0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junwon-0313" />
 </a>
