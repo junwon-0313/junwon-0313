@@ -6,7 +6,8 @@
 
 ### 📗 Education
 - Naver BoostCamp AI Tech (2023.03~2023.08)
-  - 추천 시스템(Recommender System) [level1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b), [level2,3](https://www.notion.so/junwon-0313/Style-Bible-f747bb3119bd4912bc0011fe3ec02855)
+  - 추천 시스템(Recommender System)
+  - Notion: [학습 정리](https://www.notion.so/junwon-0313/AI_Tech-5-b70134a818a84ed4bf13b56c4c2c7315), [level 1](https://www.notion.so/junwon-0313/9e695ace2f364174aa9cb692f2a6c28b), [level 2&3](https://www.notion.so/junwon-0313/Style-Bible-f7ac5fe54e07409a8d19cafca10d05b5)
 - Google ML Bootcamp Korea (2023.09~2023.11)
   - 진행 중..
 
