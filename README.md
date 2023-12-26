@@ -9,7 +9,6 @@
   - 추천 시스템(Recommender System)
   - Notion: [학습 정리](https://junwon2.notion.site/AI-Tech-5-f36b1efda95749438f5b4575417f3406?pvs=4), [level 1](https://junwon2.notion.site/63202df44d6241ee8f564d5e0cfb061a?pvs=4), [level 2&3](https://junwon2.notion.site/Style-Bible-c7ed35e917ac459aaf6ab12dcaa2718d?pvs=4)
 - Google ML Bootcamp Korea (2023.09~2023.11)
-  - 진행 중..
 
 <br>
 
